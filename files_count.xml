@@ -3,7 +3,7 @@
 	<html_total>1</html_total>
 	<html_done>1</html_done>
 	<images>15</images>
-	<script>4</script>
+	<script>2</script>
 	<css/>
 	<pdf/>
 	<documents/>
@@ -20,9 +20,9 @@
 	<scraping_reload>1</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
-	<email>1s211@gmail.com</email>
-	<theme_name>WmdTheme701332</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/robodoge.my.canva.site_1s211_gmail.com_akbjpxn2mt/</server_url_front_page>
+	<email>1us211@gmail.com</email>
+	<theme_name>WmdTheme701342</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/robodoge.my.canva.site_1us211_gmail.com_eq2cecym52/</server_url_front_page>
 	<no_www_url>robodoge.my.canva.site</no_www_url>
 	<hosted_domain/>
 	<original_archive_url>https://robodoge.my.canva.site/pepeairobot</original_archive_url>
@@ -31,5 +31,5 @@
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>5716</total_size>
+	<total_size>8</total_size>
 </pagescount>
